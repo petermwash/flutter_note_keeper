@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/5ce6afe719bf2e00086aba4d/5ce6afe719bf2e00086aba4c/status_badge.svg)](https://codemagic.io/apps/5ce6afe719bf2e00086aba4d/5ce6afe719bf2e00086aba4c/latest_build)
+
 # flutter_note_keeper
 
 A simple Note Keeper application written with Flutter.
