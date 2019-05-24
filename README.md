@@ -9,14 +9,14 @@ A simple Note Keeper application written with Flutter.
 ### Android Main Screen
 ![Android Main Screen](screenshots/AndroidMain.png)
 
-### AndroidDetails screen
-![AndroidDetails screen](screenshots/AndroidDetails.png)
+### Android Details Screen
+![Android Details Screen](screenshots/AndroidDetails.png)
 
 ### iOS Main Screen
 ![iOS Main Screen](screenshots/iOSmain.png)
 
 ### iOS Details Screen
-![iOS Details Screen](screenshots/AndroidDetails.png)
+![iOS Details Screen](screenshots/iOSdetails.png)
 
 ## Getting Started
 
