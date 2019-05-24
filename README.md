@@ -7,10 +7,10 @@ A simple Note Keeper application written with Flutter.
 ## Screenshots
 
 ### Android Main Screen
-![Android Main Screen](screenshots/AndroidDetails.png)
+![Android Main Screen](screenshots/AndroidMain.png)
 
 ### AndroidDetails screen
-![AndroidDetails screen](screenshots/AndroidMain.png)
+![AndroidDetails screen](screenshots/AndroidDetails.png)
 
 ### iOS Main Screen
 ![iOS Main Screen](screenshots/iOSmain.png)
