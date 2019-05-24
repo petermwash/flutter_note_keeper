@@ -4,6 +4,20 @@
 
 A simple Note Keeper application written with Flutter.
 
+## Screenshots
+
+### Android Main Screen
+![Android Main Screen](screenshots/AndroidDetails.png)
+
+### AndroidDetails screen
+![AndroidDetails screen](screenshots/AndroidMain.png)
+
+### iOS Main Screen
+![iOS Main Screen](screenshots/iOSmain.png)
+
+### iOS Details Screen
+![iOS Details Screen](screenshots/AndroidDetails.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

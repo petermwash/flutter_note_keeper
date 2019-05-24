@@ -1,12 +1,10 @@
-import 'package:flutter/material.dart';
-import 'package:sqflite/sqflite.dart';
 import 'dart:async';
-import 'dart:io';
-import 'package:path_provider/path_provider.dart';
 
+import 'package:flutter/material.dart';
+import 'package:flutter_note_keeper/models/note.dart';
 import 'package:flutter_note_keeper/screens/note_details.dart';
 import 'package:flutter_note_keeper/utils/database_helper.dart';
-import 'package:flutter_note_keeper/models/note.dart';
+import 'package:sqflite/sqflite.dart';
 
 class NotesList extends StatefulWidget {
 
@@ -31,7 +29,7 @@ class NotesListState extends State<NotesList> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Notes"),
+        title: Text("My Notes"),
         backgroundColor: Colors.blueGrey,
       ),
       body: getNotesListView(),
